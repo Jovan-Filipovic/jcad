@@ -2,9 +2,6 @@
 import numpy as np
 import pygame
 
-# init variables
-pygame.init()
-
 # define functions
 def screen_refresh(surface, bg_color, fg_color, jpoints, jobjects):
   surface.fill (bg_color)
