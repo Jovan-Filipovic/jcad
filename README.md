@@ -1,2 +1,3 @@
 # jcad
-ACAD python open source alternative
+# python CAD open source alternative
+# free source
